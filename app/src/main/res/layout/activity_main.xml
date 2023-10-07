@@ -47,7 +47,8 @@
             android:backgroundTint="#FFFFFF"
             android:textColor="#000000"
             android:textSize="60sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            tools:ignore="SpeakableTextPresentCheck" />
 
         <TextView
             android:id="@+id/textView9"
@@ -63,7 +64,8 @@
             android:backgroundTint="#FFFFFF"
             android:textColor="#000000"
             android:textSize="60sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            tools:ignore="SpeakableTextPresentCheck" />
 
         <TextView
             android:id="@+id/textView"
@@ -79,7 +81,8 @@
             android:backgroundTint="#F8F8F8"
             android:textColor="#000000"
             android:textSize="60sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            tools:ignore="SpeakableTextPresentCheck" />
     </LinearLayout>
 
     <TextView
@@ -101,7 +104,8 @@
             android:backgroundTint="#FFFFFF"
             android:textColor="#000000"
             android:textSize="60sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            tools:ignore="SpeakableTextPresentCheck" />
 
         <TextView
             android:id="@+id/textView10"
@@ -117,7 +121,8 @@
             android:backgroundTint="#FFFFFF"
             android:textColor="#000000"
             android:textSize="60sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            tools:ignore="SpeakableTextPresentCheck" />
 
         <TextView
             android:id="@+id/textView5"
@@ -133,7 +138,8 @@
             android:backgroundTint="#FFFFFF"
             android:textColor="#000000"
             android:textSize="60sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            tools:ignore="SpeakableTextPresentCheck" />
 
     </LinearLayout>
 
@@ -156,7 +162,8 @@
             android:backgroundTint="#FFFFFF"
             android:textColor="#0B0101"
             android:textSize="60sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            tools:ignore="SpeakableTextPresentCheck" />
 
         <TextView
             android:id="@+id/textView7"
@@ -172,7 +179,8 @@
             android:backgroundTint="#FFFFFF"
             android:textColor="#000000"
             android:textSize="60sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            tools:ignore="SpeakableTextPresentCheck" />
 
         <TextView
             android:id="@+id/textView3"
@@ -188,7 +196,8 @@
             android:backgroundTint="#FFFFFF"
             android:textColor="#000000"
             android:textSize="60sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            tools:ignore="SpeakableTextPresentCheck" />
     </LinearLayout>
 
 </LinearLayout>
